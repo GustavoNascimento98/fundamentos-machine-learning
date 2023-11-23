@@ -1,0 +1,14 @@
+Gradiente da Loss Function
+https://math.stackexchange.com/questions/2503428/derivative-of-binary-cross-entropy-why-are-my-signs-not-right/3220477#3220477
+
+
+Derivada da transposta
+https://math.stackexchange.com/questions/20694/vector-derivative-w-r-t-its-transpose-fracdaxdxt
+
+
+Situação em que A^{T}B = B^{T}A
+https://math.stackexchange.com/questions/2753210/when-can-we-say-that-a-mathrm-t-b-b-mathrm-t-a
+
+
+Derivada da função log-loss
+https://medium.com/analytics-vidhya/derivative-of-log-loss-function-for-logistic-regression-9b832f025c2d
